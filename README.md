@@ -10,7 +10,9 @@ Categories: 2 (person and car)
 Annotation format: COCO
 
 Data directory structure:
+
   data
+  
     |
     -annotations
       |
