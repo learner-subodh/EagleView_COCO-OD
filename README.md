@@ -12,6 +12,7 @@ Annotation format: COCO
 Data directory structure:
 
   data
+  
     |
     -annotations
       |
