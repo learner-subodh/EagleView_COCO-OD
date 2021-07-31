@@ -56,13 +56,17 @@ EfficientDet architecture – It employs EfficientNet as the backbone network, B
 ## Environment and Hardware
 
 Google Colaboratory
+
 Single GPU
+
 GPU Used:
 
 ## Loss Function & Metrics
 
 Loss Function: Focal Loss
+
 Metric(s): Average Precision (Primary)
+
            Intersection Upon Union (Secondary)
 
 ## Results
