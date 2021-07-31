@@ -50,8 +50,7 @@ For a detailed explanation, follow this *[report]()*
 
 ## Model Architecture
 
-![alt text](https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/EfficientDet_Architecture.jpg?raw=true)
-
+<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/EfficientDet_Architecture.jpg?raw=true" width="150" height="100">
 EfficientDet architecture – It employs EfficientNet as the backbone network, BiFPN as the feature network, and shared class/box prediction network. Both BiFPN layers and class/box net layers are repeated multiple times based on different resource constraints
 
 ## Environment and Hardware
