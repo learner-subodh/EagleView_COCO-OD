@@ -65,9 +65,7 @@ GPU Used:
 
 Loss Function: Focal Loss
 
-Metric(s): Average Precision (Primary)
-
-           Intersection Upon Union (Secondary)
+Metric(s): Average Precision (Primary), Intersection Upon Union (Secondary)
 
 ## Results
 
