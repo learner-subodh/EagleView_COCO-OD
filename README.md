@@ -2,6 +2,8 @@
 
 Object Detection is one of the fundamental tasks in computer vision with applications ranging across medicine, robotics, and many others. In this task, you are given a dataset that consists of images containing people and cars. The goal here is to train a model that can localize and classify each instance of person and car as accurately as possible.
 
+![alt text](https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/OD_Image.jpg?raw=true)
+
 ## Dataset Details
 
 Number of images: 2239
