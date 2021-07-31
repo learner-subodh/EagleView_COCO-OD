@@ -74,7 +74,7 @@ Refer to results folder for more such images
 
 ## Replicate Results
 
-1. Use **EagleView_COCO-OD.ipynb**
+1. Use *EagleView_COCO-OD.ipynb*
 2. Can be run either on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) or on local environment
 3. To infer an image: 
     *scripts > infer_single_image.py*
