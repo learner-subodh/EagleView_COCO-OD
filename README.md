@@ -59,9 +59,7 @@ Single GPU
 
 GPU Used: Nvidia Tesla T4
 
-## Loss Function & Metrics
-
-Loss Function: Focal Loss
+## Metrics
 
 Metric(s): Average Precision (Primary), Intersection Upon Union (Secondary)
 
