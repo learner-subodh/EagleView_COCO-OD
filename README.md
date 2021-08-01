@@ -43,7 +43,7 @@ Develop and train a model on this dataset to detect person and cars in an image.
 
 ## Detailed Report
 
-For a detailed explanation, follow this *[write-up]()*
+For a detailed explanation, follow this *[write-up](https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/EagleView_Assignment_WriteUp-Subodh_Lonkar.pdf)*
 
 ## Model Architecture
 
