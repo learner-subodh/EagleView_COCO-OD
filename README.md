@@ -43,7 +43,7 @@ Develop and train a model on this dataset to detect person and cars in an image.
 
 ## Detailed Report
 
-For a detailed explanation, follow this *[report]()*
+For a detailed explanation, follow this *[write-up]()*
 
 ## Approach
 
