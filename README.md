@@ -13,21 +13,20 @@ Annotation format: COCO
 
 Data directory structure:
 
-  data
-  
-    |
-    -annotations
+    data
       |
-      -bbox-annotations.json
-    |
-    -images
+      -annotations
+        |
+        -bbox-annotations.json
       |
-      -image_000000001.jpg
-      |
-      -image_000000002.jpg
-      |
-      -...
-      ...
+      -images
+        |
+        -image_000000001.jpg
+        |
+        -image_000000002.jpg
+        |
+        -...
+        ...
       
 License: These images are taken from OpenImages. All annotations are licensed under CC BY 4.0 and the images have a CC BY 2.0 license
 
