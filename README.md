@@ -45,10 +45,6 @@ Develop and train a model on this dataset to detect person and cars in an image.
 
 For a detailed explanation, follow this *[write-up]()*
 
-## Approach
-
-
-
 ## Model Architecture
 
 <img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/EfficientDet_Architecture.jpg?raw=true" width="1400" height="300">
@@ -61,7 +57,7 @@ Google Colaboratory
 
 Single GPU
 
-GPU Used:
+GPU Used: Nvidia Tesla T4
 
 ## Loss Function & Metrics
 
@@ -71,8 +67,15 @@ Metric(s): Average Precision (Primary), Intersection Upon Union (Secondary)
 
 ## Results
 
-### add images like the model arch
-Refer to results folder for more such images
+Sample Image 1:
+
+<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000065.jpg?raw=true" width="1400" height="300">
+
+Sample Image 2:
+
+<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000113.jpg?raw=true" width="1400" height="300">
+
+Refer to *results* folder for more such images
 
 ## Replicate Results
 
