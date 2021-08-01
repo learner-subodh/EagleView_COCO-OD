@@ -69,11 +69,11 @@ Metric(s): Average Precision (Primary), Intersection Upon Union (Secondary)
 
 Sample Image 1:
 
-<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000065.jpg?raw=true" width="1400" height="300">
+<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000065.jpg?raw=true" width="1400" height="700">
 
 Sample Image 2:
 
-<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000113.jpg?raw=true" width="1400" height="300">
+<img src="https://github.com/learner-subodh/EagleView_COCO-OD/blob/main/image_000000113.jpg?raw=true" width="1400" height="700">
 
 Refer to *results* folder for more such images
 
